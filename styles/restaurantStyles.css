@@ -1,0 +1,91 @@
+    body {
+        font-family: Monospace, "Times New Roman", Times;
+        background-color: #bcece8;
+    }
+
+    .header {
+        text-align: center;
+    }
+
+    .navigation_table {
+        text-align: center;
+        background-color: #c75663;
+        border-radius: 10px;
+    }
+
+    .navigation_item {
+        font-weight: normal;
+        color: white;
+        background-color: #b82243;
+        padding: 14px 50px;
+        text-align: center;
+        display: inline-block;
+        margin: 10px;
+        border-radius: 5px;
+    }
+
+    .content {
+        background-color: #4e8cca;
+        margin-bottom: 50px;        
+    }
+
+    .menu{
+        margin-bottom: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .footer {
+        text-align: center;
+        background-color: #c75663;
+        border-radius: 10px;
+        padding: 5px;
+    }
+
+    .table_menu {
+        background-color: #4e8cca;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .menu_item {
+        padding: 75px;
+    }
+
+    .table_menu_beverages {
+        background-color: #4476a8;
+        margin: 0 auto;
+    }
+
+    .menu_item_beverages {
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-left: 80px;
+    }
+
+    .home_description {
+        padding: 20px;
+    }
+
+    .menu_item_name {
+        font-size: 125%;
+    }
+
+    a:visited {
+        color: black;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        font-weight: bold;
+    }
+
+    a:active {
+        text-decoration: none;
+    }
+
+    .carousel{
+        font-size: 200%;
+        text-align: center;
+    }
